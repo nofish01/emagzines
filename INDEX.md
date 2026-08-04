@@ -13,6 +13,7 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
+| 2026-08-10 | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260810/20260810-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260810/20260810-The-New-Yorker-Magazine.epub) | [View](https://github.com/nofish01/emagzines/releases/tag/ny-20260810) |
 | 2026-08-03 | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260803/20260803-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260803/20260803-The-New-Yorker-Magazine.epub) | [View](https://github.com/nofish01/emagzines/releases/tag/ny-20260803) |
 | 2026-07-27 | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260727/20260727-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260727/20260727-The-New-Yorker-Magazine.epub) | [View](https://github.com/nofish01/emagzines/releases/tag/ny-20260727) |
 
@@ -22,4 +23,4 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 | --- | --- | --- | --- |
 | 2026-07-27 | [Download](https://github.com/nofish01/emagzines/releases/download/tm-20260727/20260727-TIME-Magazine.pdf) | [Download](https://github.com/nofish01/emagzines/releases/download/tm-20260727/20260727-TIME-Magazine.epub) | [View](https://github.com/nofish01/emagzines/releases/tag/tm-20260727) |
 
-_Total issues: 5._
+_Total issues: 6._
