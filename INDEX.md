@@ -17,6 +17,7 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
+| 2026-10-05 | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20261005/20261005-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20261005/20261005-The-New-Yorker-Magazine.epub) | [View](https://github.com/nofish01/emagzines/releases/tag/ny-20261005) |
 | 2026-09-28 | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260928/20260928-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260928/20260928-The-New-Yorker-Magazine.epub) | [View](https://github.com/nofish01/emagzines/releases/tag/ny-20260928) |
 | 2026-09-21 | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260921/20260921-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260921/20260921-The-New-Yorker-Magazine.epub) | [View](https://github.com/nofish01/emagzines/releases/tag/ny-20260921) |
 | 2026-09-14 | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260914/20260914-The-New-Yorker-Magazine.pdf) | [Download](https://github.com/nofish01/emagzines/releases/download/ny-20260914/20260914-The-New-Yorker-Magazine.epub) | [View](https://github.com/nofish01/emagzines/releases/tag/ny-20260914) |
@@ -36,4 +37,4 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 | 2026-08-17 | [Download](https://github.com/nofish01/emagzines/releases/download/tm-20260817/20260817-TIME-Magazine.pdf) | [Download](https://github.com/nofish01/emagzines/releases/download/tm-20260817/20260817-TIME-Magazine.epub) | [View](https://github.com/nofish01/emagzines/releases/tag/tm-20260817) |
 | 2026-07-27 | [Download](https://github.com/nofish01/emagzines/releases/download/tm-20260727/20260727-TIME-Magazine.pdf) | [Download](https://github.com/nofish01/emagzines/releases/download/tm-20260727/20260727-TIME-Magazine.epub) | [View](https://github.com/nofish01/emagzines/releases/tag/tm-20260727) |
 
-_Total issues: 19._
+_Total issues: 20._
